@@ -14,7 +14,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-657D8B?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 
