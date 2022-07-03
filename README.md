@@ -22,3 +22,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Premiere_Pro-657D8B?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Sinay1005=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
