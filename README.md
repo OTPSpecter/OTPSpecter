@@ -1,11 +1,10 @@
-## 🌐 Socials
+## 🌐 Socials <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-ponthou-9809511a2/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-ponthou-9809511a2/)
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sinay1005) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sinay1005)
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18269270/sinay) 
-
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18269270/sinay)
 
 
 ## 💻 Tech Stack
@@ -23,4 +22,10 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Sinay1005=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=Sinay1005&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sinay1005&theme=merko)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinay1005&layout=compact&theme=merko)<br/>
