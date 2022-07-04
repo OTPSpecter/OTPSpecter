@@ -5,7 +5,7 @@
 </p>
 
 
-                                                                  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-ponthou-9809511a2/)  
+                                                        [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-ponthou-9809511a2/)  
   [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sinay1005)  
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18269270/sinay)   [![Discord](https://img.shields.io/badge/OTP_Kakashi%235555-Discord-blueviolet?logo=Discord&logoColor=white)](https://discord.com/)
 
