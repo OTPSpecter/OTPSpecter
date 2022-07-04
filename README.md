@@ -1,13 +1,13 @@
 ## 🌐 Socials <br/>
 
-<img align="left" width="30%" alt="GIF" src="https://c.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif"></img>
+<p align="center">
+  <img align="mid" width="50%" alt="GIF" src="https://c.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif"></img>
+</p>
 
-                           [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-ponthou-9809511a2/)<br><br>
+                                                                                         [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-ponthou-9809511a2/)  
+  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sinay1005)  
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18269270/sinay)
 
-                           [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sinay1005)<br><br>
-
-                           [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18269270/sinay)<br>
-<br>
 
 
 ## 💻 Tech Stack
